@@ -2,8 +2,8 @@
 
 -------------------------------------------------------------------------------
 TODO
-- [ ] Skeleton
-- [ ] Features completion
+- [x] Skeleton
+- [x] Features completion
 - [ ] Engaging UI
 - [ ] Friendly README
 
