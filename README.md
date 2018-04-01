@@ -14,7 +14,7 @@ TODO
 - 实现基本的待办事项应用的功能
 
 
-### Current Status Show
+### Current Status
 ![current_status](./screenshots/img1.png)
 
 ### Installation
